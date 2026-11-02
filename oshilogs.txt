@@ -12,128 +12,106 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilka =====
-[1]Wilka       |07:14:46 | 01-11-2026| login OK @wilkacd | score=0 rank=?
-[1]Wilka       |07:14:46 | 01-11-2026| serverTime=2026-11-01T07:14:46.000Z local=2026-11-01T07:14:46.478Z
+[1]Wilka       |07:29:37 | 02-11-2026| login OK @wilkacd | score=0 rank=?
+[1]Wilka       |07:29:37 | 02-11-2026| serverTime=2026-11-02T07:29:37.000Z local=2026-11-02T07:29:37.250Z
 --> [1]Wilka menjalankan: Claim Daily
-[1]Wilka       |07:14:46 | 01-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Wilka menjalankan: Auto All Tasks (13 pending)
-[1]Wilka       |07:14:47 | 01-11-2026| [1/13] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790480476473178
-[1]Wilka       |07:14:47 | 01-11-2026| delay 10s...
-[1]Wilka       |07:14:58 | 01-11-2026| [2/13] 5f376a08 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790767032942064
-[1]Wilka       |07:14:58 | 01-11-2026| delay 10s...
-[1]Wilka       |07:15:08 | 01-11-2026| [3/13] 2b535748 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790533071070778
-[1]Wilka       |07:15:08 | 01-11-2026| delay 10s...
-[1]Wilka       |07:15:18 | 01-11-2026| [4/13] 8ac1a107 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790588944563667
-[1]Wilka       |07:15:18 | 01-11-2026| delay 10s...
-[1]Wilka       |07:15:29 | 01-11-2026| [5/13] 76e5ce8c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790716265241046
-[1]Wilka       |07:15:29 | 01-11-2026| delay 10s...
-[1]Wilka       |07:15:40 | 01-11-2026| [6/13] 7354ea5e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790709847714149
-[1]Wilka       |07:15:40 | 01-11-2026| delay 10s...
-[1]Wilka       |07:15:50 | 01-11-2026| [7/13] 07e2b02d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790860040035466
-[1]Wilka       |07:15:50 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:01 | 01-11-2026| [8/13] 70541c21 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790828878506939
-[1]Wilka       |07:16:01 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:12 | 01-11-2026| [9/13] 587d9c2a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790809504955235
-[1]Wilka       |07:16:12 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:22 | 01-11-2026| [10/13] 0aa0f4ba (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116790995671683124
-[1]Wilka       |07:16:22 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:33 | 01-11-2026| [11/13] 28bea61c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116791072692145363
-[1]Wilka       |07:16:33 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:43 | 01-11-2026| [12/13] 50117b4a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116791007111857272
-[1]Wilka       |07:16:43 | 01-11-2026| delay 10s...
-[1]Wilka       |07:16:54 | 01-11-2026| [13/13] 137da6db (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:16:54 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilka       |07:16:54 | 01-11-2026| [1/1] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2116791300893133640
+[1]Wilka       |07:29:37 | 02-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Wilka menjalankan: Auto All Tasks (14 pending)
+[1]Wilka       |07:29:38 | 02-11-2026| [1/14] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156714597229771
+[1]Wilka       |07:29:38 | 02-11-2026| delay 10s...
+[1]Wilka       |07:29:48 | 02-11-2026| [2/14] 1622c12e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156760758451936
+[1]Wilka       |07:29:48 | 02-11-2026| delay 10s...
+[1]Wilka       |07:29:59 | 02-11-2026| [3/14] 1f121fe2 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156791328888184
+[1]Wilka       |07:29:59 | 02-11-2026| delay 10s...
+[1]Wilka       |07:30:10 | 02-11-2026| [4/14] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156946057535333
+[1]Wilka       |07:30:10 | 02-11-2026| delay 10s...
+[1]Wilka       |07:30:20 | 02-11-2026| [5/14] 08fc1cbc (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156733449158452
+[1]Wilka       |07:30:20 | 02-11-2026| delay 10s...
+[1]Wilka       |07:30:30 | 02-11-2026| [6/14] 947c8235 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156785339828709
+[1]Wilka       |07:30:30 | 02-11-2026| delay 10s...
+[1]Wilka       |07:30:41 | 02-11-2026| [7/14] a473652b (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156824544275663
+[1]Wilka       |07:30:41 | 02-11-2026| delay 10s...
+[1]Wilka       |07:30:51 | 02-11-2026| [8/14] 9d9a53d3 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157061498036536
+[1]Wilka       |07:30:51 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:02 | 02-11-2026| [9/14] 8ac1a107 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157214282703783
+[1]Wilka       |07:31:02 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:13 | 02-11-2026| [10/14] 7354ea5e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117156942587869881
+[1]Wilka       |07:31:13 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:24 | 02-11-2026| [11/14] 07e2b02d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157038473841170
+[1]Wilka       |07:31:24 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:34 | 02-11-2026| [12/14] 55940470 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157228487733333
+[1]Wilka       |07:31:34 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:44 | 02-11-2026| [13/14] 587d9c2a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157238276814357
+[1]Wilka       |07:31:44 | 02-11-2026| delay 10s...
+[1]Wilka       |07:31:55 | 02-11-2026| [14/14] 50117b4a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157198861078747
+[1]Wilka       |07:31:55 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Wilka       |07:31:56 | 02-11-2026| [1/1] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/wilkacd/status/2117157445260989667
 --> [1]Wilka menjalankan: Watch Anime
-[1]Wilka       |07:16:55 | 01-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:31:56 | 02-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Wilka menjalankan: Read Article
-[1]Wilka       |07:16:59 | 01-11-2026| news: null/33 artikel selesai dibaca
-[1]Wilka       |07:17:00 | 01-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Wilka       |07:17:07 | 01-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:16 | 01-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:24 | 01-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:33 | 01-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:41 | 01-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:49 | 01-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:17:57 | 01-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:04 | 01-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:11 | 01-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:19 | 01-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:26 | 01-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:34 | 01-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:41 | 01-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:49 | 01-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:18:56 | 01-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:04 | 01-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:11 | 01-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:19 | 01-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:26 | 01-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:34 | 01-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:41 | 01-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:49 | 01-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:19:56 | 01-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:04 | 01-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:12 | 01-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:21 | 01-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:29 | 01-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:36 | 01-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:44 | 01-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:51 | 01-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:20:59 | 01-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:21:07 | 01-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Wilka       |07:21:16 | 01-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:31:59 | 02-11-2026| news: null/34 artikel selesai dibaca
+[1]Wilka       |07:31:59 | 02-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Wilka       |07:32:06 | 02-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:14 | 02-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:21 | 02-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:28 | 02-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:35 | 02-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:42 | 02-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:50 | 02-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:32:57 | 02-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Wilka       |07:33:05 | 02-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Wilka       |07:33:07 | 02-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news oshi-clash-100000-battles: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news whitepaper-v2-2: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news smart-pocket-referral-rewards: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news spaceship-and-studio-friends: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news swap-arena-stars-guide: view GAGAL http=503
+[1]Wilka       |07:33:07 | 02-11-2026| news kagura-airdrop-guide: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news oshi-clash-complete-guide: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news oshi-clash-launch: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news smart-pocket-monthly-2026-09: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news oshi-labs-monthly-2026-09: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news oshi-news-launch: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news yuki-character-design: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news smart-pocket-mobile-apps: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news smart-pocket-read-a-card: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news start-your-fan-creation: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news complete-your-first-task: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news understand-the-rankings: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news unlock-and-save-icons: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news start-here: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news what-is-free-mint: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news what-is-nft: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news prepare-your-wallet: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news find-your-anime: view GAGAL http=503
+[1]Wilka       |07:33:08 | 02-11-2026| news smart-pocket-first-steps: view GAGAL http=503
 --> [1]Wilka menjalankan: Quiz Anime
+[1]Wilka       |07:33:09 | 02-11-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Wilka menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilka       |07:21:21 | 01-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Wilka       |07:21:21 | 01-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:33:09 | 02-11-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Wilka       |07:33:09 | 02-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Wilka menjalankan: Claim Missions
-[1]Wilka       |07:21:21 | 01-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:33:09 | 02-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Wilka menjalankan: Check Eligibility
 
 --- eligibility [1]Wilka ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/13
-  missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-  quiz     [?]
-  watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-  music    [--------------------] 0/13
-  artikel  [--------------------] 0/33
-  mint: requirementsMet=false mintOpen=false discord=false
+  tasks    [--------------------] 0/14
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Wilka menjalankan: Read Manga
-[1]Wilka       |07:21:25 | 01-11-2026| manga: 13/13 chapter belum completed
-[1]Wilka       |07:21:25 | 01-11-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Wilka       |07:21:26 | 01-11-2026| manga ch1 (1): start GAGAL http=401
-[1]Wilka       |07:21:29 | 01-11-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Wilka       |07:21:29 | 01-11-2026| manga ch2 (450001): start GAGAL http=401
-[1]Wilka       |07:21:32 | 01-11-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Wilka       |07:21:33 | 01-11-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Wilka       |07:21:36 | 01-11-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Wilka       |07:21:36 | 01-11-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Wilka       |07:21:39 | 01-11-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Wilka       |07:21:39 | 01-11-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Wilka       |07:21:42 | 01-11-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Wilka       |07:21:43 | 01-11-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Wilka       |07:21:46 | 01-11-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Wilka       |07:21:46 | 01-11-2026| manga ch1 (180003): start GAGAL http=401
-[1]Wilka       |07:21:49 | 01-11-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Wilka       |07:21:49 | 01-11-2026| manga ch2 (990005): start GAGAL http=401
-[1]Wilka       |07:21:52 | 01-11-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Wilka       |07:21:52 | 01-11-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Wilka       |07:21:55 | 01-11-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Wilka       |07:21:56 | 01-11-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Wilka       |07:21:59 | 01-11-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Wilka       |07:22:00 | 01-11-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Wilka       |07:22:03 | 01-11-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Wilka       |07:22:03 | 01-11-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Wilka       |07:22:06 | 01-11-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Wilka       |07:22:07 | 01-11-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Wilka       |07:33:11 | 02-11-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Wilka menjalankan: Get Gift
-[1]Wilka       |07:22:11 | 01-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:33:11 | 02-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Wilka menjalankan: Setup Profile
-[1]Wilka       |07:22:11 | 01-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:33:11 | 02-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Wilka menjalankan: Bind Wallet
-[1]Wilka       |07:22:12 | 01-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Wilka       |07:33:11 | 02-11-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Wilka: daily=- | tasks OK 0/14 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Wilka: daily=- | tasks OK 0/15 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
